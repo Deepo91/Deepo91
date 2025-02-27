@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Deepo91
-- 👀 I’m interested in ...API & web site development..
-- 🌱 I’m currently learning ...AI &website &web 3 crypto....
-- 💞️ I’m looking to collaborate on ...crypto trading & finance development &</HTML>
-- 📫 How to reach me ...{email address}
-- 😄 Pronouns: ...development°]
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ...API & web site developer... also solven issues/>>>
 
 <!---
 Deepo91/Deepo91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
